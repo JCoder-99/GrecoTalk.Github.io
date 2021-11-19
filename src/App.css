@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans", sans-serif;
+}
+
+.home,
+.chat,
+.info,
+.moreinfo,
+.sign-up {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.chat {
+  background-color: rgb(53, 181, 185);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  font-size: 100px;
+}
+
+.info {
+  /* background-color: rgb(74, 236, 241); */
+  background-color: rgb(30, 142, 146);
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  font-size: 100px;
+}
+.moreinfo {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+}
+
+.sign-up {
+  background-color: rgb(53, 181, 185);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
