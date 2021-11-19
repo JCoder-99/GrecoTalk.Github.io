@@ -8,7 +8,7 @@ import SignUp from './Components/pages/SignUp';
 
 
 function App() {
-  return (
+  return ( 
     <>
     <Router>
     <Navbar />
