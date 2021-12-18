@@ -5,7 +5,7 @@ import './info.css';
 function Info() {
   return (
     <div className='info-container'>
-      <p>GrecoTalk is dedicated</p>
+      <p>Jolk is dedicated</p>
       <p>to improve the quality of civil discourse</p>
       <p>in the digital age</p>
       
